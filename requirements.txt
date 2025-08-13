@@ -1,0 +1,7 @@
+crewai
+python-dotenv
+crewai-tools
+streamlit
+deepgram-sdk
+pydantic
+moviepy
