@@ -3,6 +3,8 @@
 **Bring historical figures to life through calming AI-generated storytelling videos with narration and subtitles.**
 
 ---
+## Demo
+[![Watch the demo](https://img.youtube.com/vi/uqJ6kItob7o/maxresdefault.jpg)](https://youtu.be/uqJ6kItob7o)
 
 ## 🎓 What It Does
 
