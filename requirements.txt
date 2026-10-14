@@ -2,7 +2,7 @@ crewai
 python-dotenv
 crewai-tools
 streamlit
-deepgram-sdk
+deepgram-sdk==3.11.0
 pydantic
 moviepy
 pydub 
